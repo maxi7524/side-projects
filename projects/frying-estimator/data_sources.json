@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "resources": [
+    {
+      "path": "data/heat_sources.csv",
+      "sha256": "7c27d84bc992349a3261b9a7c67f1e8a275ea45cae0ead52d242f7b98607f59e",
+      "role": "input",
+      "archive_path": "private/other/small_math_projects/frying_estimator/data/heat_sources.csv",
+      "availability": "preserved-local-archive"
+    },
+    {
+      "path": "data/usda_appendix_a_lethality.csv",
+      "sha256": "22a7b96b76d4f322acfc8ca603c72256a08f191ce62af117dc3f532d567550d1",
+      "role": "input",
+      "archive_path": "private/other/small_math_projects/frying_estimator/data/usda_appendix_a_lethality.csv",
+      "availability": "preserved-local-archive"
+    },
+    {
+      "path": "heat_capacities/component_properties_choi_okos.csv",
+      "sha256": "fdfb624a3c6c2865eaae98e1e258403a727805302f2ac655e7e15089b5f97307",
+      "role": "input",
+      "archive_path": "private/other/small_math_projects/frying_estimator/heat_capacities/component_properties_choi_okos.csv",
+      "availability": "preserved-local-archive"
+    },
+    {
+      "path": "heat_capacities/food.csv",
+      "sha256": "5fdd2cb448fe0aaa96ad6ad92d83978156dd1bdae5d2a303d710370cba802de2",
+      "role": "input",
+      "archive_path": "private/other/small_math_projects/frying_estimator/heat_capacities/food.csv",
+      "availability": "preserved-local-archive"
+    },
+    {
+      "path": "heat_capacities/pan_capacities.csv",
+      "sha256": "a5eafea375de608a16da89d0daefc1727dfa07bba42bed62478de971b3d249f2",
+      "role": "input",
+      "archive_path": "private/other/small_math_projects/frying_estimator/heat_capacities/pan_capacities.csv",
+      "availability": "preserved-local-archive"
+    }
+  ],
+  "unresolved": [],
+  "source_references": [],
+  "providers": [],
+  "generated": []
+}
