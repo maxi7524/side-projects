@@ -12,3 +12,5 @@ Small independent explorations in mathematics, numerical modeling, and data anal
 [Source provenance](PROVENANCE.md). Data-dependent folders contain `download_data.py` and `DATA.md`; all datasets and generated artifacts remain outside Git.
 
 Support checks (Python 3.10+): `python -m unittest discover -s tests -v`.
+
+[Shared data preparation instructions](DATA_POLICY.md).
