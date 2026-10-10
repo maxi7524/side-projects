@@ -22,48 +22,48 @@
       "sha256": "6f53bac033e99b6cdef31c1bc3dcb8c68dd154bfd02df1a987b2ee1b1bd42d1b",
       "role": "artifact",
       "archive_path": "private/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_112.png",
-      "availability": "pinned-original-repository-and-local-archive",
-      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_112.png?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+      "availability": "tracked-deliverable",
+      "github_api": "repos/maxi7524/side-projects/contents/projects/virtual-cell-challenge/experiments/single-cell-training/gears_comparison/epochs_plot_hidden_112.png?ref=main"
     },
     {
       "path": "gears_comparison/epochs_plot_hidden_32.png",
       "sha256": "83fb8c68461840bb559c3839382a245a32450dbf76c3407f3d8bd5835a324aca",
       "role": "artifact",
       "archive_path": "private/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_32.png",
-      "availability": "pinned-original-repository-and-local-archive",
-      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_32.png?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+      "availability": "tracked-deliverable",
+      "github_api": "repos/maxi7524/side-projects/contents/projects/virtual-cell-challenge/experiments/single-cell-training/gears_comparison/epochs_plot_hidden_32.png?ref=main"
     },
     {
       "path": "gears_comparison/epochs_plot_hidden_48.png",
       "sha256": "700364c8635584fa2df989e4b2dc7c2ff3d1c98f6f62525a2cd310878224e549",
       "role": "artifact",
       "archive_path": "private/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_48.png",
-      "availability": "pinned-original-repository-and-local-archive",
-      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_48.png?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+      "availability": "tracked-deliverable",
+      "github_api": "repos/maxi7524/side-projects/contents/projects/virtual-cell-challenge/experiments/single-cell-training/gears_comparison/epochs_plot_hidden_48.png?ref=main"
     },
     {
       "path": "gears_comparison/epochs_plot_hidden_64.png",
       "sha256": "f5e54a0679fee6da1b941144f42bdf9e10a24170bae2715abb24bce4b648112e",
       "role": "artifact",
       "archive_path": "private/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_64.png",
-      "availability": "pinned-original-repository-and-local-archive",
-      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_64.png?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+      "availability": "tracked-deliverable",
+      "github_api": "repos/maxi7524/side-projects/contents/projects/virtual-cell-challenge/experiments/single-cell-training/gears_comparison/epochs_plot_hidden_64.png?ref=main"
     },
     {
       "path": "gears_comparison/epochs_plot_hidden_80.png",
       "sha256": "c5011008353ebeff02e5574f93621ec0bd77c8f88093b5dad26aa8d846a1aeb1",
       "role": "artifact",
       "archive_path": "private/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_80.png",
-      "availability": "pinned-original-repository-and-local-archive",
-      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_80.png?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+      "availability": "tracked-deliverable",
+      "github_api": "repos/maxi7524/side-projects/contents/projects/virtual-cell-challenge/experiments/single-cell-training/gears_comparison/epochs_plot_hidden_80.png?ref=main"
     },
     {
       "path": "gears_comparison/epochs_plot_hidden_96.png",
       "sha256": "a4ab9aaa52da460a02347d30bf5788fb42b05cf64a20218a0b9f79b91586fa28",
       "role": "artifact",
       "archive_path": "private/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_96.png",
-      "availability": "pinned-original-repository-and-local-archive",
-      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_96.png?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+      "availability": "tracked-deliverable",
+      "github_api": "repos/maxi7524/side-projects/contents/projects/virtual-cell-challenge/experiments/single-cell-training/gears_comparison/epochs_plot_hidden_96.png?ref=main"
     },
     {
       "path": "gears_comparison/test_metrics_comparison.csv",

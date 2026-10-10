@@ -71,3 +71,11 @@
 /projects/virtual-cell-challenge/experiments/single-cell-training/test_model_96/config.pkl
 /projects/virtual-cell-challenge/experiments/single-cell-training/test_model_96/model.pt
 /projects/virtual-cell-challenge/experiments/single-cell-training/trainoutput.txt
+
+# Preserve submitted reports, figures and compact result tables. Raw inputs stay ignored.
+!/projects/virtual-cell-challenge/experiments/single-cell-training/gears_comparison/epochs_plot_hidden_112.png
+!/projects/virtual-cell-challenge/experiments/single-cell-training/gears_comparison/epochs_plot_hidden_32.png
+!/projects/virtual-cell-challenge/experiments/single-cell-training/gears_comparison/epochs_plot_hidden_48.png
+!/projects/virtual-cell-challenge/experiments/single-cell-training/gears_comparison/epochs_plot_hidden_64.png
+!/projects/virtual-cell-challenge/experiments/single-cell-training/gears_comparison/epochs_plot_hidden_80.png
+!/projects/virtual-cell-challenge/experiments/single-cell-training/gears_comparison/epochs_plot_hidden_96.png

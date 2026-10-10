@@ -1,6 +1,6 @@
 # Data policy
 
-External inputs, processed copies, model weights and generated outputs are ignored by Git and excluded from imported histories. Do not force-add them.
+External inputs, processed input datasets, model weights and bulk computational outputs remain ignored by Git. Preserve authored reports, interactive HTML, illustrations, animations and compact submitted result tables as tracked documentation through explicit file-level ignore exceptions. Do not force-add datasets or weights.
 
 ## Prepare an assignment
 
@@ -13,7 +13,7 @@ python download_data.py --archive-root /path/to/github-organization/migration-ar
 python download_data.py --archive-root /path/to/github-organization/migration-archive --include-artifacts
 ```
 
-`--list` performs no downloads. The archive restores exact historical bytes; `--include-artifacts` additionally restores original figures, exports and model outputs. `MIGRATION_ARCHIVE` can supply the archive directory. Matching checksums are reused and failed downloads do not replace existing files. Manifest paths cannot escape the assignment directory.
+`--list` performs no downloads. The archive restores exact historical bytes; `--include-artifacts` additionally restores declared historical exports and model outputs; committed report artifacts are reused after checksum verification. `MIGRATION_ARCHIVE` can supply the archive directory. Matching checksums are reused and failed downloads do not replace existing files. Manifest paths cannot escape the assignment directory.
 
 Retain the local archive when deleting source repositories. Authenticated GitHub fallback requires `gh` and source access, and stops working after deletion. URLs without a checksum are not certified as reproducing historical bytes. HTML confirmation/authentication responses are rejected; Google Drive and other hosts may need additional access.
 
@@ -25,4 +25,4 @@ Support checks from the collection root: `python -m unittest discover -s tests -
 
 ## Published review artifacts
 
-HTML previews under `previews/` are a deliberate documentation exception: they contain derived plots/tables and explicit execution statuses. Raw datasets, processed input files and model weights remain ignored. Numerical assignment report PDFs and fixed report illustrations are also documentation artifacts.
+HTML previews under `previews/`, submitted PDF/HTML reports, their figures/animations and compact submitted result tables are tracked documentation. Raw datasets, processed input files and model weights remain ignored. A report can be read without restoring inputs or executing the scientific workflow.
