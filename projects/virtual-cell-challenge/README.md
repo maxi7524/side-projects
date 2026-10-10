@@ -9,6 +9,6 @@ These retained notebooks document single-cell data exploration, GEARS training a
 | Mithril GEARS experiments | [Notebook and input instructions](experiments/mithril-gears/README.md) |
 | Single-cell exploration and training | [Notebook index and input instructions](experiments/single-cell-training/README.md) |
 
-Inputs, trained models and training logs remain outside Git. Original sources: [mithril_gears](https://github.com/maxi7524/mithril_gears) and the private working collection; see [provenance](../../PROVENANCE.md).
+Inputs, trained models and training logs remain outside Git. The original experiments are preserved in the [mithril-gears](experiments/mithril-gears) and [single-cell-training](experiments/single-cell-training) folders.
 
 [Side projects](../../README.md)
