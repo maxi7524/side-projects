@@ -22,3 +22,7 @@ Library providers use existing `torchvision` or `ucimlrepo` dependencies without
 An assignment's `DATA.md` lists inputs and known gaps; `data_sources.json` records checksums, archive paths and source references. Missing inputs cause nonzero exit status. No replacement datasets are fabricated. Legacy analyses are not claimed to execute end to end; scientific review is a later stage.
 
 Support checks from the collection root: `python -m unittest discover -s tests -v`.
+
+## Published review artifacts
+
+HTML previews under `previews/` are a deliberate documentation exception: they contain derived plots/tables and explicit execution statuses. Raw datasets, processed input files and model weights remain ignored. Numerical assignment report PDFs and fixed report illustrations are also documentation artifacts.

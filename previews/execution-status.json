@@ -1,0 +1,69 @@
+{
+  "environment_versions": {
+    "nbformat": "5.10.4",
+    "nbconvert": "7.17.1",
+    "nbclient": "0.11.0",
+    "ipykernel": "7.3.0",
+    "numpy": "2.5.1",
+    "scipy": "1.18.0",
+    "pandas": "3.0.5",
+    "matplotlib": "3.11.1"
+  },
+  "notebooks": [
+    {
+      "notebook": "projects/frying-estimator/frying_estimator_notebook.ipynb",
+      "preview": "previews/projects/frying-estimator/frying_estimator_notebook.html",
+      "source_sha256": "97b3ec3a3eef8c9f281a964aded2a1073ccb9aee055dfb1d6ec5fbd9fece32bb",
+      "status": "executed",
+      "detail": "Fresh execution completed in source cell order with seed 4242. Historical results were not substituted.",
+      "historical_output_cells": 0,
+      "output_cells": 18,
+      "completed_source_cells": 26,
+      "missing_attachments": []
+    },
+    {
+      "notebook": "projects/virtual-cell-challenge/experiments/mithril-gears/gears_model.ipynb",
+      "preview": "previews/projects/virtual-cell-challenge/experiments/mithril-gears/gears_model.html",
+      "source_sha256": "66cfe3ff2aaaa25726e4d4fe03cb6d85dfbb26a6842cd8595a37449aaa754194",
+      "status": "blocked",
+      "detail": "Unavailable original dependencies: gears, h5py, scanpy. Preserved historical outputs are shown for exactly matching cells; they are not results of a fresh run.",
+      "historical_output_cells": 8,
+      "output_cells": 8,
+      "completed_source_cells": 0,
+      "missing_attachments": []
+    },
+    {
+      "notebook": "projects/virtual-cell-challenge/experiments/single-cell-training/gears_model.ipynb",
+      "preview": "previews/projects/virtual-cell-challenge/experiments/single-cell-training/gears_model.html",
+      "source_sha256": "d28b9791863538c1448c41ae0567c5434d330d196ea6c054da6b95fa32b36688",
+      "status": "blocked",
+      "detail": "Unavailable original dependencies: gears, h5py, scanpy. Preserved historical outputs are shown for exactly matching cells; they are not results of a fresh run.",
+      "historical_output_cells": 9,
+      "output_cells": 9,
+      "completed_source_cells": 7,
+      "missing_attachments": []
+    },
+    {
+      "notebook": "projects/virtual-cell-challenge/experiments/single-cell-training/gears_model_complexity.ipynb",
+      "preview": "previews/projects/virtual-cell-challenge/experiments/single-cell-training/gears_model_complexity.html",
+      "source_sha256": "5c289d8ee19cd628e80982e6dc6f0c504f52c4fb8cdaf123e9d6a3b973778ef0",
+      "status": "blocked",
+      "detail": "Unavailable original dependencies: gears, scanpy. Preserved historical outputs are shown for exactly matching cells; they are not results of a fresh run.",
+      "historical_output_cells": 3,
+      "output_cells": 3,
+      "completed_source_cells": 2,
+      "missing_attachments": []
+    },
+    {
+      "notebook": "projects/virtual-cell-challenge/experiments/single-cell-training/scRNA-seq.ipynb",
+      "preview": "previews/projects/virtual-cell-challenge/experiments/single-cell-training/scRNA-seq.html",
+      "source_sha256": "5406d3faa472166b6429a6e0ebf9a15c6390bc18c60c872009c0f6b62aace18a",
+      "status": "blocked",
+      "detail": "Unavailable original dependencies: scanpy, scvi. Preserved historical outputs are shown for exactly matching cells; they are not results of a fresh run.",
+      "historical_output_cells": 6,
+      "output_cells": 6,
+      "completed_source_cells": 5,
+      "missing_attachments": []
+    }
+  ]
+}

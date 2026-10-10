@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "resources": [
+    {
+      "path": "gears_comparison/data_comparison.csv",
+      "sha256": "32b9d1659708b4b95bdeedac17d474a32b7480b9b3d58b4e4071a678d2103f3e",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/gears_comparison/data_comparison.csv",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/data_comparison.csv?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "gears_comparison/epochs_comparison_table.csv",
+      "sha256": "b21361b8044c4d7052a18d61fe310ac0f438a56e25f6cab812c4f5f2b44f821c",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/gears_comparison/epochs_comparison_table.csv",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/epochs_comparison_table.csv?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "gears_comparison/epochs_plot_hidden_112.png",
+      "sha256": "6f53bac033e99b6cdef31c1bc3dcb8c68dd154bfd02df1a987b2ee1b1bd42d1b",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_112.png",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_112.png?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "gears_comparison/epochs_plot_hidden_32.png",
+      "sha256": "83fb8c68461840bb559c3839382a245a32450dbf76c3407f3d8bd5835a324aca",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_32.png",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_32.png?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "gears_comparison/epochs_plot_hidden_48.png",
+      "sha256": "700364c8635584fa2df989e4b2dc7c2ff3d1c98f6f62525a2cd310878224e549",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_48.png",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_48.png?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "gears_comparison/epochs_plot_hidden_64.png",
+      "sha256": "f5e54a0679fee6da1b941144f42bdf9e10a24170bae2715abb24bce4b648112e",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_64.png",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_64.png?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "gears_comparison/epochs_plot_hidden_80.png",
+      "sha256": "c5011008353ebeff02e5574f93621ec0bd77c8f88093b5dad26aa8d846a1aeb1",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_80.png",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_80.png?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "gears_comparison/epochs_plot_hidden_96.png",
+      "sha256": "a4ab9aaa52da460a02347d30bf5788fb42b05cf64a20218a0b9f79b91586fa28",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_96.png",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/epochs_plot_hidden_96.png?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "gears_comparison/test_metrics_comparison.csv",
+      "sha256": "cbde0e8f9810340d5d75674e7eccd49c90408fa0a0285fa81c097aec5a674c8b",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/gears_comparison/test_metrics_comparison.csv",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/gears_comparison/test_metrics_comparison.csv?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "test_model_112/config.pkl",
+      "sha256": "637e2992ad765ca4e42344f3dd7f4c5e221588f3b08edf7c2da44cea3a9df0a6",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/test_model_112/config.pkl",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/test_model_112/config.pkl?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "test_model_112/model.pt",
+      "sha256": "8a8278ca726fdf56ca6fb43be9af79129afb77fc9fd71981cb23daa9d77426b7",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/test_model_112/model.pt",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/test_model_112/model.pt?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "test_model_128/config.pkl",
+      "sha256": "14f706790a7f3d77b350c547fde1b0dc472c870e80ae79244a2ad2d2767490bd",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/test_model_128/config.pkl",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/test_model_128/config.pkl?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "test_model_128/model.pt",
+      "sha256": "7d3416295ceb003304b62427456ddbafbb837c26dd669fd5d58c0652b7b6e23f",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/test_model_128/model.pt",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/test_model_128/model.pt?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "test_model_32/config.pkl",
+      "sha256": "ffe5457215105c775066d6a4f3ff6e8ebfd5274e7828ddf7f9d1d30ea47c1941",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/test_model_32/config.pkl",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/test_model_32/config.pkl?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "test_model_32/model.pt",
+      "sha256": "4caa89b9da5c07d21531b1132844fc0c34ca680f00292e2a3eeace73b07fa409",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/test_model_32/model.pt",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/test_model_32/model.pt?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "test_model_48/config.pkl",
+      "sha256": "8abb43dc1a9b3e8733fc57d4987c54744e909c9e77a309889a8372a1621b07f3",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/test_model_48/config.pkl",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/test_model_48/config.pkl?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "test_model_48/model.pt",
+      "sha256": "6493fbba4118fdbdcc5eafd2593002bb40e086423f9945ee283b9a3380f7772f",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/test_model_48/model.pt",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/test_model_48/model.pt?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "test_model_64/config.pkl",
+      "sha256": "003d47078204a7dae79dddb864c06aa57391f7005f4804a0df545ec6705792df",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/test_model_64/config.pkl",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/test_model_64/config.pkl?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "test_model_64/model.pt",
+      "sha256": "d476c2f29d6b62f553e9840a630220a3608bb01bf7b2b22273c1d9c6d01ea4d1",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/test_model_64/model.pt",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/test_model_64/model.pt?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "test_model_80/config.pkl",
+      "sha256": "abbd76df1a21fef5bdaeb69197c354aa91ebd4e2b06882bb08b993540e7b401e",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/test_model_80/config.pkl",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/test_model_80/config.pkl?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "test_model_80/model.pt",
+      "sha256": "8d31f5f346e11bd6b8293ffe273c60e1412d7b4efb3a220b901b8872ece367ca",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/test_model_80/model.pt",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/test_model_80/model.pt?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "test_model_96/config.pkl",
+      "sha256": "ffab0d1ff081445d7b13aa88f5d9030da0692dade90173a13d55b1e9b85bc6ab",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/test_model_96/config.pkl",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/test_model_96/config.pkl?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "test_model_96/model.pt",
+      "sha256": "4103dd4300adfa42bd03300aba534f3e948f627a45445911fe015463737b34d0",
+      "role": "artifact",
+      "archive_path": "private/sc_RNA-seq_training/test_model_96/model.pt",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/test_model_96/model.pt?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    },
+    {
+      "path": "trainoutput.txt",
+      "sha256": "834538b7afece3775ef7888b68b230233fdc3930c4fcef536273724958c54481",
+      "role": "input",
+      "archive_path": "private/sc_RNA-seq_training/trainoutput.txt",
+      "availability": "pinned-original-repository-and-local-archive",
+      "github_api": "repos/maxi7524/private/contents/sc_RNA-seq_training/trainoutput.txt?ref=12389f5e44b27308b8727c19ec60533b806f704f"
+    }
+  ],
+  "unresolved": [
+    "Original VCC/GEARS input dataset: not present in source repositories; supply the original dataset and run the preserved preprocessing cells."
+  ],
+  "source_references": [],
+  "providers": [],
+  "generated": []
+}
