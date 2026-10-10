@@ -11,6 +11,17 @@
   },
   "notebooks": [
     {
+      "notebook": "projects/cat-sleep-analysis/cat_analysis.ipynb",
+      "preview": "previews/projects/cat-sleep-analysis/cat_analysis.html",
+      "source_sha256": "4a43da3cdbcada2d8346ce3734d03d09fc3c17b6584023e6944a49bda2d22b72",
+      "status": "historical",
+      "detail": "Original saved result; the notebook was not re-executed during repository organization.",
+      "historical_output_cells": 1,
+      "output_cells": 1,
+      "completed_source_cells": 0,
+      "missing_attachments": []
+    },
+    {
       "notebook": "projects/frying-estimator/frying_estimator_notebook.ipynb",
       "preview": "previews/projects/frying-estimator/frying_estimator_notebook.html",
       "source_sha256": "97b3ec3a3eef8c9f281a964aded2a1073ccb9aee055dfb1d6ec5fbd9fece32bb",

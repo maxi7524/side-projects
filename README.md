@@ -4,6 +4,7 @@ Independent explorations in numerical modeling and computational biology.
 
 | Project | Focus | Status |
 |---|---|---|
+| [Cat sleep and circadian activity](projects/cat-sleep-analysis/README.md) | Published feline sleep–wake profiles | Exploratory analysis |
 | [Frying estimator](projects/frying-estimator/README.md) | Heat transfer and cooking-time estimation | Exploratory model |
 | [Virtual Cell Challenge](projects/virtual-cell-challenge/README.md) | Single-cell perturbation analysis and GEARS modeling | **180th / 337 teams** in 2025; retained GEARS exploration |
 

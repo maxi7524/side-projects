@@ -8,6 +8,7 @@ Status totals: **blocked: 4**, **executed: 1**.
 
 | Notebook | HTML | Status | Execution note |
 |---|---|---|---|
+| [Cat sleep analysis](../projects/cat-sleep-analysis/cat_analysis.ipynb) | [View/download](projects/cat-sleep-analysis/cat_analysis.html) | historical | Original saved plot; no new execution |
 | [projects/frying-estimator/frying_estimator_notebook.ipynb](../projects/frying-estimator/frying_estimator_notebook.ipynb) | [View/download](projects/frying-estimator/frying_estimator_notebook.html) | executed | Fresh execution completed in source cell order with seed 4242. Historical results were not substituted. |
 | [projects/virtual-cell-challenge/experiments/mithril-gears/gears_model.ipynb](../projects/virtual-cell-challenge/experiments/mithril-gears/gears_model.ipynb) | [View/download](projects/virtual-cell-challenge/experiments/mithril-gears/gears_model.html) | blocked | Unavailable original dependencies: gears, h5py, scanpy. Preserved historical outputs are shown for exactly matching cells; they are not results of a fresh run. |
 | [projects/virtual-cell-challenge/experiments/single-cell-training/gears_model.ipynb](../projects/virtual-cell-challenge/experiments/single-cell-training/gears_model.ipynb) | [View/download](projects/virtual-cell-challenge/experiments/single-cell-training/gears_model.html) | blocked | Unavailable original dependencies: gears, h5py, scanpy. Preserved historical outputs are shown for exactly matching cells; they are not results of a fresh run. |
